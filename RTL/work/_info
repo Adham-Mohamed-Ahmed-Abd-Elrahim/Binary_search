@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Work Zone/Life After Graduation/Projects/Binary Search/RTL
+vbinary_search
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1703321555
+!i10b 1
+!s100 nT@23]MbQ?^0CO[I7;GMB2
+IMCHHSG2G];gVHMPba5b]k3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 binary_search_sv_unit
+S1
+R0
+w1703321554
+8.\binary_search.sv
+F.\binary_search.sv
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1703321555.000000
+!s107 .\binary_search.sv|
+!s90 .\binary_search.sv|
+!i113 1
+Z4 tCvgOpt 0
+vbinary_search_controller
+R1
+!s110 1703320397
+!i10b 1
+!s100 _f6eF`9ZJlM]A55Rc=JNd3
+IH5c<[3O5dGNhDBF9@gc2_2
+R2
+!s105 binary_search_controller_sv_unit
+S1
+R0
+w1703320395
+8.\binary_search_controller.sv
+F.\binary_search_controller.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1703320397.000000
+!s107 .\binary_search_controller.sv|
+!s90 .\binary_search_controller.sv|
+!i113 1
+R4
